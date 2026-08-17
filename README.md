@@ -7,7 +7,7 @@ A simulated small-business sales project focused on data cleaning, transformatio
 ## Project Preview
 
 ### Report Overview
-![Report Overview](screenshots/01_report_overview.png)
+https://github.com/Gacao-19/small_business_sales_analysis/blob/main/Salesperson%20Analysis/Product%20performance.png
 
 ### Product Performance
 ![Product Performance](screenshots/02_product_performance.png)
