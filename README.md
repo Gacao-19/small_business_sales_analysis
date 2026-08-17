@@ -4,6 +4,17 @@
 
 A simulated small-business sales project focused on data cleaning, transformation, profitability analysis, and management reporting using Microsoft Excel.
 
+## Project Preview
+
+### Report Overview
+![Report Overview](screenshots/01_report_overview.png)
+
+### Product Performance
+![Product Performance](screenshots/02_product_performance.png)
+
+### Salesperson Performance
+![Salesperson Performance](screenshots/03_salesperson_performance.png)
+
 ## Tools Used
 
 - Microsoft Excel
