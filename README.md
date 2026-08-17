@@ -13,7 +13,7 @@ https://github.com/Gacao-19/small_business_sales_analysis/blob/main/Salesperson%
 https://github.com/Gacao-19/small_business_sales_analysis/blob/main/Salesperson%20Analysis/Report%20overview.png
 
 ### Salesperson Performance
-![Salesperson Performance](screenshots/03_salesperson_performance.png)
+https://github.com/Gacao-19/small_business_sales_analysis/blob/main/Salesperson%20Analysis/Salesperson%20performance.png
 
 ## Tools Used
 
